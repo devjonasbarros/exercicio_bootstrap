@@ -1,0 +1,36 @@
+
+input{
+    margin: 3px;
+}
+
+button{
+    margin-top: 7px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: blue;
+    margin: 16px 0 10px 0}
+
+
+    a{
+        color: blue;
+        text-decoration: none;
+        font-size: 16px;
+
+
+    }
+
+    footer{
+        margin-top: 30px;
+        font-size: 22px;
+        font-size: 16px;
+
+    }
+
+    a:hover{
+        font-size: 33px;
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
